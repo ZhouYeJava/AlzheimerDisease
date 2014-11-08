@@ -5,8 +5,8 @@
 ###Zhou Ye###
 ###01/21/2014###
 
-#Run the program part by part because it will take nearly five hours to run the whole program.
-#I suggest you run it section by section
+#The code to merge ADNI data also with Martin Reuter's data
+#This code is fine for ADNI data before 04/05/2013
 
 rm(list=ls())
 setwd("E:/Research_Bruno/Data/Data_2013_04_05") #Change the route for your own computer or server
